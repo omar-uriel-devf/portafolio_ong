@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+.logo-devf{
+position:fixed;
+width:: 100px
+display: inline-block;
+float: left
+=======
 #main-header{
   width: 609px;
   height: 115px;
@@ -7,6 +14,7 @@
 #logodevf{
   width: 102px;
   height: 43px;
+>>>>>>> 44cb1f2b74b4efbfba32e1045de7cdca79773ac8
 }
 .tagline{
   width: 146px;
